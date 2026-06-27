@@ -1,7 +1,7 @@
 # 🛒 Blinkit Sales Business Intelligence Dashboard
 
 <p align="center">
-  <img src="Dashboard_Screenshots/Blinkit_Dashboard.png" width="100%">
+  <img src="D:\Data Analysis\Blinkit Project\dashboard_preview.png">
 </p>
 
 <p align="center">
