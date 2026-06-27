@@ -265,7 +265,7 @@ This dashboard enables business stakeholders to:
 
 ### Connect with me
 
-- 💼 LinkedIn: https://www.linkedin.com/in/manav-patel-6b646b311
+- 💼 LinkedIn: https://www.linkedin.com/in/patelmanav2004
 - 💻 GitHub: https://github.com/manavpatel17
 
 ---
